@@ -5,3 +5,5 @@
 - STAR
 - PICARD
 - GATK
+- Samtools
+- rtg-tools
